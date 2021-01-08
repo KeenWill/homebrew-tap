@@ -1,5 +1,3 @@
-# KeenWill Tools
-
 ## How do I install these formulae?
 `brew install keenwill/tools/<formula>`
 
