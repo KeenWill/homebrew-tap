@@ -1,3 +1,8 @@
+# William Goeller's Formulae
+
+- ChangeMenuBarColor
+- electricbinary
+
 ## How do I install these formulae?
 `brew install keenwill/tools/<formula>`
 
