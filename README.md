@@ -1,7 +1,8 @@
 # William Goeller's Formulae
 
 - ChangeMenuBarColor
-- electricbinary
+- electricbinary (cask)
+- git-annex-turtle (cask)
 
 ## How do I install these formulae?
 `brew install keenwill/tools/<formula>`
