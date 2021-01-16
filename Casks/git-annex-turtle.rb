@@ -5,7 +5,7 @@ cask "git-annex-turtle" do
   url "https://github.com/andrewringler/git-annex-turtle/releases/download/v#{version}/git-annex-turtle-#{version}.dmg"
   appcast "https://github.com/andrewringler/git-annex-turtle/releases.atom"
   name "git-annex-turtle"
-  desc "Provides Apple Finder integration for git-annex on macOS"
+  desc "Provides Apple Finder integration for git-annex"
   homepage "https://github.com/andrewringler/git-annex-turtle"
 
   app "git-annex-turtle.app"
