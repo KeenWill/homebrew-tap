@@ -6,7 +6,7 @@ class Qt < Formula
     url "https://download.qt.io/official_releases/qt/6.0/6.0.0/single/qt-everywhere-src-6.0.0.tar.xz"
     mirror "https://mirrors.dotsrc.org/qtproject/archive/qt/6.0/6.0.0/single/qt-everywhere-src-6.0.0.tar.xz"
     mirror "https://mirrors.ocf.berkeley.edu/qt/archive/qt/6.0/6.0.0/single/qt-everywhere-src-6.0.0.tar.xz"
-    sha256 "3a530d1b243b5dec00bc54937455471aaa3e56849d2593edb8ded07228202240"
+    sha256 "d39a1a557a0dc8dc5ea2eaaee0fa015c71dcbb79c25a6aea421c594227565296"
     license all_of: ["GFDL-1.3-only", "GPL-2.0-only", "GPL-3.0-only", "LGPL-2.1-only", "LGPL-3.0-only"]
   
     head "https://code.qt.io/qt/qt6.git", branch: "dev", shallow: false
