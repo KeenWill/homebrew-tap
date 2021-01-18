@@ -5,9 +5,9 @@
 - git-annex-turtle (cask)
 
 ## How do I install these formulae?
-`brew install keenwill/tools/<formula>`
+`brew install keenwill/tap/<formula>`
 
-Or `brew tap keenwill/tools` and then `brew install <formula>`.
+Or `brew tap keenwill/tap` and then `brew install <formula>`.
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
